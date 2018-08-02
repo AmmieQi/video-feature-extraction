@@ -1,2 +1,2 @@
 # video-feature-extraction
-Scripts for feature extraction of video using opencv &amp; pytorch
+Scripts for video feature extraction with opencv &amp; pytorch
